@@ -6,7 +6,7 @@
  "rewards":"",
  "title":"التحديث متوفر 🛠️",
  "description":"يتوفر تحديث جديد ويتضمن ميزات جديدة وإصلاحات للأخطاء.",
- "download":"https://t.me/jubatek",
+ "download":"https://youtu.be/wdP5bRQDE-8",
  "users_premium":"",
  "force":"true"
 }
