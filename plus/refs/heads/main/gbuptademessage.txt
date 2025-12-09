@@ -1,2 +1,2 @@
-{'ver1':'24', 'ver2':'135', 'ver3':'\n• [Important Update]\n• Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n• [تحديث جديد مهم]\n• نعتذر منك لتحديث واتساب الذهبي بعد يومين  فقط حته يعمل واتساب بشكل جيد ✅
-رابط تحميل التحديث في اول تعليق مثبت هنا 🔝\n' , 'dli':'https://youtube.com/@juba22'}
+{'ver1':'24', 'ver2':'135', 'ver3':'\n• [Important Update]\n• Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n• [تحديث جديد مهم]\n• نعتذر منك لتحديث واتساب الذهبي بعد يومين فقط حته يعمل واتساب بشكل جيد ✅
+رابط تحميل التحديث في اول تعليق مثبت هنا\n' , 'dli':'https://youtube.com/@juba22'}
